@@ -1,6 +1,6 @@
 # app-dev
 My first repository 
-** Bold text  ** My favorite movies are
+**My favorite films are**
 - No Time To Die 
 - Skyfall
 - Spectre
